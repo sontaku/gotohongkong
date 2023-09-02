@@ -26,12 +26,15 @@
 - 밥-참차이키 : https://goo.gl/maps/M3ndwJPXn3LjuEir6
   - 양식
 - place-란콰이펑 : https://goo.gl/maps/bq43wdwQBDKSjmqj6
+- place-미드레벨에스컬레이터 : 
+- place-황후상 광장 : https://goo.gl/maps/fuWkHg84X4juuDp88
 
 
 
 
 
 - 심포니오브라이트 : 매일밤 8시 침사추이 레이저쇼
+  - 길바닥 명당(스타의거리 애비오브스타?) : https://goo.gl/maps/3wLnCPn3CSEqbrw18
 
 - **예약필요** 홍콩 피크트램 & 스카이 테라스 428 티켓
   - https://www.klook.com/ko/activity/765-peak-tram-sky-terrace-hongkong/?utm_campaign=platform-share&utm_content=platform%3Dapp_pagespm%3DActivity_textversion%3D1_shareid%3D80edb12d-70f7-4f61-9e7e-dba7c22f74d2&utm_medium=kakao-talk&utm_source=kakao
@@ -57,6 +60,11 @@
 
 
 
+하우스오브댄싱워터
+
+
+
 ### 밥
 
-1. 로드스토우 에그타르트
+- 로드스토우 에그타르트 : https://goo.gl/maps/Ne1qHq2bHT5zdrYR8
+  - 로드스토우 에그타르트
