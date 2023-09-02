@@ -6,11 +6,11 @@
 
 ##### 구룡반도
 
-- eat-원딤섬 : https://goo.gl/maps/f49r7jzXntcjaih49
-- place-침사추이 : https://goo.gl/maps/htEanoNEwdabXq7u8
-- eat-Cafe103 리츠칼튼호텔 : https://goo.gl/maps/MehZj3wWyD3vzX5dA
+- **eat**-원딤섬 : https://goo.gl/maps/f49r7jzXntcjaih49
+- **place**-침사추이 : https://goo.gl/maps/htEanoNEwdabXq7u8
+- **eat**-Cafe103 리츠칼튼호텔 : https://goo.gl/maps/MehZj3wWyD3vzX5dA
   - 점심 애프터눈티
-- eat-Red Tea Cafe : https://goo.gl/maps/YF7EoJcJPB3oXMvk6
+- **eat**-Red Tea Cafe : https://goo.gl/maps/YF7EoJcJPB3oXMvk6
   - 차찬탱
   - 애그 스크램블, 토스트
   - 사타이 비프 라면
@@ -19,15 +19,15 @@
 
 ##### 홍콩섬
 
-- place-익청빌딩 : https://goo.gl/maps/tSTZrtTNkrG4DwB86
+- **place**-익청빌딩 : https://goo.gl/maps/tSTZrtTNkrG4DwB86
   - 포토 플레이스
-- 밥-카우키레스토랑 : https://goo.gl/maps/GzuBYTQcz4WuBX8X8
+- **eat**-카우키레스토랑 : https://goo.gl/maps/GzuBYTQcz4WuBX8X8
   - 국수
-- 밥-참차이키 : https://goo.gl/maps/M3ndwJPXn3LjuEir6
+- **eat**-참차이키 : https://goo.gl/maps/M3ndwJPXn3LjuEir6
   - 양식
-- place-란콰이펑 : https://goo.gl/maps/bq43wdwQBDKSjmqj6
-- place-미드레벨에스컬레이터 : 
-- place-황후상 광장 : https://goo.gl/maps/fuWkHg84X4juuDp88
+- **place**-란콰이펑 : https://goo.gl/maps/bq43wdwQBDKSjmqj6
+- **place**-미드레벨에스컬레이터 : 
+- **place**-황후상 광장 : https://goo.gl/maps/fuWkHg84X4juuDp88
 
 
 
@@ -41,13 +41,28 @@
 - **예약필요** 홍콩 옥토퍼스 카드
   - https://www.klook.com/ko/activity/1355-tourist-octopus-card-hong-kong/?utm_campaign=platform-share&utm_content=platform%3Dapp_pagespm%3DActivity_textversion%3D1_shareid%3D21f5f475-c9a0-4ffc-8be4-539ad4c531fd&utm_medium=kakao-talk&utm_source=kakao
 
-
-
-
-
 - **예약필요** 홍콩to마카오 페리
   - https://blog.naver.com/jjjadeland/223162298844
   - https://www.kkday.com/ko/product/10445
+
+
+
+### 숙소
+
+- https://www.airbnb.co.kr/rooms/25395808?adults=1&checkin=&checkout=&children=0&infants=0&pets=0&wishlist_item_id=11002683571061&source_impression_id=p3_1693666398_Fivl9SWFk66e6fNe&previous_page_section_name=1001
+
+  
+
+
+
+### 쇼핑
+
+- 백화점-레인 크로포드 : https://goo.gl/maps/DVtZswCKypYvty2U8
+- HORIZON PLAZA : https://goo.gl/maps/5Wq3V4gkpmtSAshRA
+- 더원 : https://goo.gl/maps/QX8MPS3eAKuEGhV27
+  - 빔즈 있음
+- 저널스탠다드 : https://goo.gl/maps/7mG6SivVRTdwePdE6
+- Living Plaza by AEON 尖沙咀店 천원샵 : https://goo.gl/maps/NbTwwbjk9niu7dvAA
 
 
 
@@ -55,12 +70,12 @@
 
 # 마카오
 
-- place-런더너호텔 : https://goo.gl/maps/v5CFRGqq6wMTZH8QA
-  - 영국 빅벤 모방
+- **place**-런더너호텔 : https://goo.gl/maps/v5CFRGqq6wMTZH8QA
+  - 런던 빅벤 모방
 
 
 
-하우스오브댄싱워터
+공연 : 하우스오브댄싱워터
 
 
 
@@ -68,3 +83,15 @@
 
 - 로드스토우 에그타르트 : https://goo.gl/maps/Ne1qHq2bHT5zdrYR8
   - 로드스토우 에그타르트
+
+
+
+
+
+
+
+
+
+esim : https://dosirakesim.com/Product/Detail/1/E_CN_BC_4GBperDay_4D
+
+https://store.maaltalk.com/goods/goods_view.php?goodsNo=1000000279
