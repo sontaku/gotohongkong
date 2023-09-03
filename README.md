@@ -40,6 +40,8 @@
   - https://www.klook.com/ko/activity/765-peak-tram-sky-terrace-hongkong/?utm_campaign=platform-share&utm_content=platform%3Dapp_pagespm%3DActivity_textversion%3D1_shareid%3D80edb12d-70f7-4f61-9e7e-dba7c22f74d2&utm_medium=kakao-talk&utm_source=kakao
 - **예약필요** 홍콩 옥토퍼스 카드
   - https://www.klook.com/ko/activity/1355-tourist-octopus-card-hong-kong/?utm_campaign=platform-share&utm_content=platform%3Dapp_pagespm%3DActivity_textversion%3D1_shareid%3D21f5f475-c9a0-4ffc-8be4-539ad4c531fd&utm_medium=kakao-talk&utm_source=kakao
+  - 31200원 (2장) 결제 완료
+  - https://www.klook.com/ko/experiences/booking-details/?guid=4857830866&bookingNo=FZG358536&sub_category_id=551&spm=PaymentCompleted.ViewBooking&clickId=a7dec3191e
 
 - **예약필요** 홍콩to마카오 페리
   - https://blog.naver.com/jjjadeland/223162298844
@@ -89,9 +91,15 @@
 
 
 
-
-
-
-esim : https://dosirakesim.com/Product/Detail/1/E_CN_BC_4GBperDay_4D
-
+----------------------------------
+## esim
+1. esim 9710원- 취소
 https://store.maaltalk.com/goods/goods_view.php?goodsNo=1000000279
+
+
+
+2. 17500 - 구매
+https://www.myrealtrip.com/reservations/TNA-20230903-00007206
+
+## esim 사전 등록
+https://gi.esmplus.com/dial070/eSIM/B/esim_notice_china_hk.jpg
